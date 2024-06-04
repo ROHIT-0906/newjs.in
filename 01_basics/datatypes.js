@@ -6,4 +6,4 @@ let state; // undefinde caus undefined statement
 // symbole
 
 console.log("Rohit");
-console.log(typeof "age"); // to check the datatype
+console.log(typeof state); // to check the datatype
