@@ -5,4 +5,5 @@ let tempreture = null // null value
 let state; // undefinde caus undefined statement
 // symbole
 
-console.log(typeof "Rohit"); // to check the datatype
+console.log("Rohit");
+console.log(typeof "age"); // to check the datatype
